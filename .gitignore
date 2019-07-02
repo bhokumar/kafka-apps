@@ -30,3 +30,5 @@ HELP.md
 .vscode/
 
 */*.class
+
+kafka-client/build/*
