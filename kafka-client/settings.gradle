@@ -1,2 +1,3 @@
 rootProject.name = 'kafka-client'
+include 'kafka-consumer-elastic-search'
 
