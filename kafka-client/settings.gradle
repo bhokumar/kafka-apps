@@ -1,3 +1,4 @@
 rootProject.name = 'kafka-client'
 include 'kafka-consumer-elastic-search'
+include 'kafka-stream-filter-tweets'
 
